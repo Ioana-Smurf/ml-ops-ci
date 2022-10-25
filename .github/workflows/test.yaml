@@ -1,4 +1,4 @@
-name: mlops-exaple-tensorflow-regression
+name: MANUAL-RUN
 on: [workflow_dispatch]
 jobs:
   run:
